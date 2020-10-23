@@ -1,2 +1,2 @@
-# boletiminteligente
+# Boletim inteligente!
  repositório versionado
