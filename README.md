@@ -1,2 +1,2 @@
 # Boletim inteligente!
- repositório versionado
+ Salvando vidas de professores e alunos heheh!
